@@ -1,0 +1,9 @@
+app.py
+requirements.txt
+requirement.txt
+Requirements.txt
+requirements.txt.txtstreamlit==1.35.0
+yfinance==0.2.40
+pandas
+numpy
+plotly
